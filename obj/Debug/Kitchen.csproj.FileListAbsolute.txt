@@ -1,0 +1,12 @@
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\bin\Debug\Kitchen.exe.config
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\bin\Debug\Kitchen.exe
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\bin\Debug\Kitchen.pdb
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\obj\Debug\Kitchen.csproj.AssemblyReference.cache
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\obj\Debug\Kitchen.csproj.SuggestedBindingRedirects.cache
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\obj\Debug\Kitchen.frmHome.resources
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\obj\Debug\Kitchen.Properties.Resources.resources
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\obj\Debug\Kitchen.csproj.GenerateResource.cache
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\obj\Debug\Kitchen.csproj.CoreCompileInputs.cache
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\obj\Debug\Kitchen.exe
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\obj\Debug\Kitchen.pdb
+D:\AllProjects\RoadMapWeb\Projects\Kitchen\obj\Debug\Kitchen.Form1.resources
